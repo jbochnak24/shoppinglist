@@ -5,208 +5,209 @@
         <meta charset="utf-8" />
     </head>
     <h1>Shopping List</h1>
-    <h2>Dairy</h2>
-    milk
+    <h2>Meat</h2>
+    Ground Beef
     <br />
     <img
-        src="https://target.scene7.com/is/image/Target/GUEST_419f1169-a698-45a1-8d89-ad28136ba841?wid=488&amp;hei=488&amp;fmt=pjpeg"
-        alt="Vitamin D Whole Milk - 1gal - Good &amp; Gather™ : Target"
+        src="https://images.albertsons-media.com/is/image/ABS/188100109?$ng-ecom-pdp-desktop$&amp;"
+        alt="Ground Beef 80% Lean 20% Fat Value Pack - 3 Lbs. - Vons"
         width="100"
         height="100" />
     <br />
-    cheese
+    Chicken
     <br />
     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/04/Kraft_Singles.jpg"
-        alt="Kraft Singles - Wikipedia"
+        src="https://images.albertsons-media.com/is/image/ABS/960026249?$ng-ecom-pdp-desktop$&amp;"
+        alt="Signature Farms Boneless Skinless Chicken Breasts - 2 Lb - ACME Markets"
         width="100"
         height="100" />
     <br />
+    Ham
+    <br />
     <img
-        src="https://www.icantbelieveitsnotbutter.com/en/-/media/Project/Upfield/Brands/ICBIN/ICBIN-US/Assets/Products/Original/Original---Front.png?rev=cdd7383f419b48a09c6a9e6b8420f1f4"
-        alt="Original Spread | I Can&#39;t Believe It&#39;s Not Butter"
+        src="https://target.scene7.com/is/image/Target/GUEST_a37a3ed9-aea3-4658-852a-ac3c4901ac2d?wid=488&amp;hei=488&amp;fmt=pjpeg"
+        alt="Oscar Mayer Deli Fresh Honey Uncured Ham Sliced Lunch Meat - 9oz"
         width="100"
         height="100" />
     <br />
-    greek yogurt
+    Bacon
     <br />
     <img
-        src="https://i5.walmartimages.com/seo/Great-Value-Greek-Vanilla-Nonfat-Yogurt-32-oz_cb9d8c17-c789-48c2-8694-4eb917f9497c.737cb6bcaf8809336d89c7f2fcd6cafa.jpeg"
-        alt="Great Value Greek Vanilla Nonfat Yogurt, 32 oz - Walmart.com"
+        src="https://www.pageneralstore.com/images/large/WEA-5660-116-000.jpg"
+        alt="Godshall's Beef Bacon, 12 oz"
         width="100"
         height="100" />
     <br />
-    ice cream
+    Turkey
     <br />
     <img
-        src="https://1d81e75c4337a6e2e3c2-4a69748413de5fcbd7a7a944817c2356.ssl.cf1.rackcdn.com/146506907_videos/20220801094009873310387.jpg"
-        alt="Oreo Ice Cream Cone Frozen Dessert Novelties, 8 Ct - Walmart.com"
+        src="https://www.kroger.com/product/images/large/front/0021006250000"
+        alt="Kroger® Whole Frozen Turkey (10-14 lb), 10-14 lb - Kroger"
         width="100"
         height="100" />
     <br />
     <html>
-        <h2>Frozen Foods</h2>
-        pizza rolls
+        <h2>Drinks</h2>
+        Water
         <br />
         <img
-            src="https://www.totinos.com/wp-content/uploads/2023/05/Combination-Pizza-Rolls_460x460.png"
-            alt="Combination Pizza Rolls | Pizza Snacks | Totino&#39;s"
+            src="https://m.media-amazon.com/images/I/71FIHr22wML.jpg"
+            alt="Nestlé® Pure Life® Bottled Purified Water, 16.9 oz. Bottles, 24/Case"
             width="100"
             height="100" />
         <br />
-        eggos
+        Milk
         <br />
         <img
-            src="https://images.heb.com/is/image/HEBGrocery/000118656-1"
-            alt="Kellogg&#39;s Eggo Homestyle Frozen Waffles - Shop Entrees &amp; Sides at H-E-B"
+            src="https://www.webstaurantstore.com/images/products/large/429790/2277687.jpg"
+            alt="Turkey Hill Whole Milk 1 Gallon - 4/Case"
             width="100"
             height="100" />
         <br />
-        chicken nuggets
+        Soda
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_684a1ef4-5f66-43f1-8220-59ac40672c24?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Chicken Nuggets - Frozen - 29oz - Good &amp; Gather™ : Target"
+            src="https://images.heb.com/is/image/HEBGrocery/001397083-1"
+            alt="Sprite Lemon-Lime Soda"
             width="100"
             height="100" />
         <br />
-        french fries
+        Iced Tea
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_cf0b6352-6250-4663-aab2-719c2aa2bfa2?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Ore-ida Gluten Free Frozen Golden Crinkles French Fries - 32oz : Target"
+            src="https://target.scene7.com/is/image/Target/GUEST_b31a2a6c-f7e6-4afb-b1b0-37900669d354?wid=488&amp;hei=488&amp;fmt=pjpeg"
+            alt="Pure Leaf Sweet Tea Iced Tea - 64 fl oz Bottle"
             width="100"
             height="100" />
         <br />
-        macaroni and cheese
+        Orange Juice
         <br />
         <img
-            src="https://www.goodnes.com/sites/g/files/jgfbjl321/files/styles/gdn_hero_pdp_product_image/public/gdn_product/field_product_images/stouffers-4f2b96238598a42b1fa415cae46dccad9a9a5225.png.webp?itok=Zg2Ww_Zm"
-            alt="Macaroni &amp; Cheese Frozen Meal | Official STOUFFER&#39;S®"
-            width="100"
-            height="100" />
-        <br />
-        <h2>Bread</h2>
-        baguette
-        <br />
-        <img
-            src="https://assets.wakefern.com/is/image/wakefern/63538103603-001?$Mi9Product_detail$"
-            alt="Panera Bread French Baguette, 14 oz"
-            width="100"
-            height="100" />
-        <br />
-        white bread
-        <br />
-        <img
-            src="https://res.cloudinary.com/hksqkdlah/image/upload/SIL_Arnold_CountryClassic02_dib4vl.png"
-            alt="The Best White Sandwich Bread | America&#39;s Test Kitchen"
-            width="100"
-            height="100" />
-        <br />
-        bagels
-        <br />
-        <img
-            src="https://food.fnr.sndimg.com/content/dam/images/food/products/2022/6/9/rx_thomas-plain-original-pre-sliced-bagels.jpeg.rend.hgtvcom.616.616.suffix/1654795353108.jpeg"
-            alt="Best Store Bought Bagels | Shopping : Food Network | Food Network"
-            width="100"
-            height="100" />
-        <br />
-        croissant
-        <br />
-        <img
-            src="https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/62609ffa9167cc74977d830d_0856564006121-glamor-front-2022-03-28t18-48-26-iphone-x-quality-90-1-29-0-user-5984ad42a967f880524de2c4-hf6t-349564.jpg"
-            alt="Croissant Toast, 15 oz at Whole Foods Market"
-            width="100"
-            height="100" />
-        <br />
-        hot dog buns
-        <br />
-        <img
-            src="https://target.scene7.com/is/image/Target/GUEST_2c9f822f-0521-4bfc-9607-1180c0fe3f92?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Hot Dog Buns - 11oz/8ct - Market Pantry™ : Target"
+            src="https://target.scene7.com/is/image/Target/GUEST_2b7f75ea-fbb8-4767-8b1f-6bb809bfe214?wid=488&amp;hei=488&amp;fmt=pjpeg"
+            alt="Simply Orange Pulp Free Juice - 52 Fl Oz : Target"
             width="100"
             height="100" />
         <br />
         <h2>Snacks</h2>
-        doritos
+        Chips
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_d769c627-2f55-49ae-8ba9-d3f19b81e462?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Doritos Nacho Cheese Chips - 9.25oz : Target"
+            src="https://images.heb.com/is/image/HEBGrocery/001865742-1"
+            alt="Lay's Classic Potato Chips - Shop Chips at H-E-B"
             width="100"
             height="100" />
         <br />
-        chip dip
+        Rice Cakes
         <br />
         <img
-            src="https://m.media-amazon.com/images/I/81OXQ2KS6zL.jpg"
-            alt="Amazon.com: Lay&#39;s &amp; Tostitos Party Salsa and Dips Variety Pack, 4 Count"
+            src="https://m.media-amazon.com/images/I/81rC26qz0TL.jpg"
+            alt="Quaker Rice Cakes, Lightly Salted, 4.47 oz"
             width="100"
             height="100" />
         <br />
-        ruffles
+        Little Bites
         <br />
         <img
-            src="https://m.media-amazon.com/images/I/81Aak49pu4L.jpg"
-            alt="Amazon.com: Ruffles Potato Chips Cheddar &amp; Sour Cream Party Size Bag, 12.5  Oz"
+            src="https://images.heb.com/is/image/HEBGrocery/000481188-1"
+            alt="Entenmann's Little Bites Blueberry Muffins"
             width="100"
             height="100" />
         <br />
-        pretzels
+        Granola Bars
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_854d84c6-30b5-449a-a178-814a79834a76?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Rold Gold Tiny Twists Pretzels - 16oz : Target"
+            src="https://m.media-amazon.com/images/I/81yfQKGCjbS.jpg"
+            alt="Quaker Chewy Granola Bars, Variety Pack, 18 Count"
             width="100"
             height="100" />
         <br />
-        sour patch kids
+        Fruit Snacks
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_21215cb6-b2e1-4b1c-a01e-b4ec704a946d?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Sour Patch Kids Soft &amp; Chewy Candy - 3.5oz : Target"
+            src="https://target.scene7.com/is/image/Target/GUEST_fe9062f6-9b83-499e-ac4d-4402c80f1558?qlt=65&amp;fmt=pjpeg&amp;hei=350&amp;wid=350"
+            alt="Welch's Fruit Snacks Berries 'n Cherries - 32oz/40ct : Target"
             width="100"
             height="100" />
         <br />
-        <h2>Protein</h2>
-        ground beef
+        <h2>Fruits and Vegetables</h2>
+        Carrots
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_5c08b4e9-aabc-4b79-a579-0e33b9f849c7"
-            alt="All Natural 93/7 Ground Beef - 1lb - Good &amp; Gather™ : Target"
+            src="https://target.scene7.com/is/image/Target/GUEST_c38afe56-c6df-4045-97e0-45135a1431b6"
+            alt="Baby-cut Carrot Snack Pack - 3oz/4ct - Good & Gather™ : Target"
             width="100"
             height="100" />
         <br />
-        eggs
+        Lettuce
         <br />
         <img
-            src="https://morningfresh.com/wp-content/uploads/2018/09/EB-12ct-White-Large-Cage-Free.png"
-            alt="Our Products - Morning Fresh Farms"
+            src="https://images.heb.com/is/image/HEBGrocery/000319730-1"
+            alt="H-E-B Romaine Lettuce Hearts"
             width="100"
             height="100" />
         <br />
-        hot dogs
+        Apples
         <br />
         <img
-            src="https://publish.purewow.net/wp-content/uploads/sites/2/2022/05/best-hot-dog-brands-hofmann-s.jpg?fit=728%2C524"
-            alt="The 18 Best Hot Dog Brands, Ranked - PureWow"
+            src="https://i5.peapod.com/c/XN/XNAVX.png"
+            alt="Save on Stop & Shop Apples Red Slices Order Online Delivery | Stop & Shop"
             width="100"
             height="100" />
         <br />
-        spinach
+        Bananas 
         <br />
         <img
-            src="https://target.scene7.com/is/image/Target/GUEST_03aeb398-84b4-409b-ae84-6fb0831768c3?wid=488&amp;hei=488&amp;fmt=pjpeg"
-            alt="Organic Baby Spinach - 5oz - Good &amp; Gather™ : Target"
+            src="https://images.heb.com/is/image/HEBGrocery/000377497-1"
+            alt="Fresh Bunch of Bananas"
             width="100"
             height="100" />
         <br />
-        brussels sprouts
+        Green Beans
         <br />
         <img
-            src="https://i5.peapod.com/c/HT/HT2O3.png"
-            alt="Save on Giant Brussels Sprouts Order Online Delivery | Giant"
+            src="https://target.scene7.com/is/image/Target/GUEST_37a30210-b0cd-49f7-bbd3-3eafd9e4503c?wid=488&amp;hei=488&amp;fmt=pjpeg"
+            alt="Del Monte Cut Green Beans - 14.5oz : Target"
+            width="100"
+            height="100" />
+        <br />
+        <h2>Frozen Food</h2>
+        Ice Cream
+        <br />
+        <img
+            src="https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/dreyer's/products/classic/Dreyers-48oz-3D-Chocolate.png"
+            alt="Chocolate Ice Cream | Dreyer's® Classics"
+            width="100"
+            height="100" />
+        <br />
+        Fries
+        <br />
+        <img
+            src="https://i5.walmartimages.com/seo/Great-Value-Regular-Cut-French-Fried-Potatoes-32-oz-Bag-Frozen_f8b20b5d-9dc3-41fa-9ba9-a5b4dfb1856a_1.74fcc5c4a6f1090158bd71f594eb02c1.jpeg"
+            alt="Great Value Regular Cut French Fried Potatoes, 32 oz Bag (Frozen)"
+            width="100"
+            height="100" />
+        <br />
+        Pretzels
+        <br />
+        <img
+            src="https://i5.walmartimages.com/asr/4a9f2efb-3f06-45a4-8753-c3c779eadcf2.e9f5eaee669fbdfb682190ab5648b854.jpeg?odnHeight=768&amp;odnWidth=768&amp;odnBg=FFFFFF"
+            alt="SuperPretzel Original Fully Baked Soft Pretzels, 13 oz, 6 Count (Frozen)"
+            width="100"
+            height="100" />
+        <br />
+        Pizza
+        <br />
+        <img
+            src="https://target.scene7.com/is/image/Target/GUEST_21741656-98d8-4869-ac8b-fc42ce608a55?wid=488&amp;hei=488&amp;fmt=pjpeg"
+            alt="Totino's Pepperoni Party Frozen Pizza - 10.2oz : Target"
+            width="100"
+            height="100" />
+        <br />
+        Pot Pie
+        <br />
+        <img
+            src="https://images.heb.com/is/image/HEBGrocery/000105727-1"
+            alt="Banquet Chicken Pot Pie Frozen Dinner"
             width="100"
             height="100" />
     </html>
-</html>
